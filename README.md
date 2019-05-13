@@ -1,2 +1,2 @@
-# tutorials
-home-grown snippets and guides
+# Tutorials
+A few home-grown snippets and guides 🌱
